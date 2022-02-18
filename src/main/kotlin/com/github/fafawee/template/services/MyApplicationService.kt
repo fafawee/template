@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.fafawee.template.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fafawee.template.MyBundle
 
 class MyApplicationService {
 
